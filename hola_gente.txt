@@ -1,0 +1,2 @@
+Modificando archivos y estado en Git
+Mañana cole.
